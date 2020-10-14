@@ -11,6 +11,8 @@ const StoreProvider = ({ value = [], ...props }) => {
   const [state, dispatch] = useProductReducer({
     //instantiate initial global state
     products: [],
+    cart: [],
+    cartOpen: false,
     categories: [],
     currentCategory: '',
   });
