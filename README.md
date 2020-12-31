@@ -24,7 +24,7 @@ When the user loads the site, they are able to view a homepage with various prod
 To run program: node server
 
 ## Deployed Application
-https://dashboard.heroku.com/apps/shop-shop2468
+https://shop-shop2468.herokuapp.com/
 
 ## Project Status
 Shop-Shop is complete in adherence with acceptance criteria
