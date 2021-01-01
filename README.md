@@ -6,7 +6,7 @@
 To create an online shopping application, offering various food, household supplies, electronics, books, and toys for sale.
 
 ## Features
-When the user loads the site, they are able to view a homepage with various products from cookies, to toilet paper, to soap. The user can add products from the homepage to the shopping cart OR navigate to a desired category to view the products within that designation. When navigating to a specific category, the user can select a product and add to the shopping cart. When adding to the shopping cart, the cart will open and display the options to edit the quantity or checkout. Upon checkout, the user is redirected to a Stripe payment page to enter their information. The user is notified of successful payment completion and redirected back to the site to continue shopping.
+When the user loads the site, they are able to view a homepage with various products from cookies, to toilet paper, to soap. The user can add products from the homepage to the shopping cart OR navigate to a desired category to view the products within that designation. When navigating to a specific category, the user can select a product and add it to the shopping cart. When adding to the shopping cart, the cart will open and display the options to edit the quantity or checkout. Upon checkout, the user is redirected to a Stripe payment page to enter their information. The user is notified of successful payment completion and redirected back to the site to continue shopping.
 
 ## Built With
 * React JS
